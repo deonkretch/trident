@@ -1,2 +1,2 @@
 # trident
-Voron Tridend 350mm Klipper Config
+Voron Trident 350mm Klipper Config
